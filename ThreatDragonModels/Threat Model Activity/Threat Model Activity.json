@@ -1,0 +1,31 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Threat Model Activity",
+    "owner": "Nico Serrato",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Nico Serrato"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "STRIDE Threat Modeling Activity",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "CSSECDV Activity"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Nico Serrato",
+    "threatTop": 0
+  }
+}
